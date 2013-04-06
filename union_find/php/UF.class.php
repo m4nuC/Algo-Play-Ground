@@ -4,6 +4,10 @@ class UF {
 	
 	private $objects = array();
 
+/**
+ * Construct
+ * @param [type] $N [description]
+ */
 	public function __construct( $N )
 	{
 		// We store the Number as Index not as Value so that we can easily access them
@@ -15,6 +19,12 @@ class UF {
 		$this->dpo();
 	}
 
+/**
+ * Union
+ * @param  [type] $a [description]
+ * @param  [type] $b [description]
+ * @return [type]    [description]
+ */
 	public function union($a, $b) 
 	{
 		$this->dpo();
@@ -39,6 +49,11 @@ class UF {
 		$this->dpo();
 	}
 
+/**
+ * Siblings
+ * @param  [type] $obj [description]
+ * @return [type]      [description]
+ */
 	public function siblings($obj) 
 	{
 		// Get the group ID
@@ -49,11 +64,25 @@ class UF {
 		return $results;
 	}
 
+/**
+ * Connected
+ * @param  [type] $a [description]
+ * @param  [type] $b [description]
+ * @return [type]    [description]
+ */
 	public function connected($a, $b)
 	{
-		// 
+		// Get group id 
+		$groupId = $this->objects[$a];
+		
+		$return = $this->objects[$a] == $this->objects[$b];
+		var_dump($return);
 	}
 
+/**
+ * dpo
+ * @return [type] [description]
+ */
 	private function dpo()
 	{
 		print("\n");
@@ -69,5 +98,7 @@ $UF->union(5,2);
 $UF->union(6,2);
 $UF->union(2,3);
 $UF->union(10,6);
+$UF->connected(10,6);
+$UF->connected(10,9);
 
 
