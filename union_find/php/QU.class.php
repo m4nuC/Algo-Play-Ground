@@ -10,9 +10,9 @@ class QU {
 	public function __construct($N)
 	{
 		// We store the Number as Index not as Value so that we can easily access them
-		for ($i = 1; $i <= $N; $i++ )
+		for ($i = 0; $i < $N; $i++ )
 		{
-			$this->treeDepth[$obj] = 1;
+			$this->treeDepth[$i] = 1;
 			$this->groupIds[$i] = $i;
 		}	
 	}
@@ -30,7 +30,7 @@ class QU {
 
 		while ( $this->groupIds[$obj] != $obj )
 		{
-			$this->treeDepth[$obj]++; 
+			//$this->treeDepth[$obj]++; 
 			$obj = $this->groupIds[$obj];
 		}
 
@@ -48,19 +48,21 @@ class QU {
 		$rA = $this->root($this->groupIds[$a]);
 		$rB = $this->root($this->groupIds[$b]);
 
-		if ( $this->treeDepth[$a] > $this->treeDepth[$b] )
+		if ( $this->treeDepth[$rA] < $this->treeDepth[$rB] )
 		{
-			$this->groupIds[$rB] = $rA;
-			$this->treeDepth[$b] +=  $this->treeDepth[$a];
+			$this->groupIds[$rA] = $rB;
+			$this->treeDepth[$rB] +=  $this->treeDepth[$rA];
 		}
 
 		else
 		{
-			$this->groupIds[$rA] = $rB;
-			$this->treeDepth[$a] +=  $this->treeDepth[$b];
+			$this->groupIds[$rB] = $rA;
+			$this->treeDepth[$rA] +=  $this->treeDepth[$rB];
 		}
-			
-		$this->dpo();
+		var_dump($a, $b);
+		var_dump($this->treeDepth);
+		print($this);
+		//$this->dpo();
 	}
 
 /**
@@ -86,15 +88,23 @@ class QU {
 		var_dump($this->groupIds);
 	}
 
+	public function __toString()
+	{
+		return implode(' ', $this->groupIds) . "\n";
+	}
+
 }
 
 
 $QU = new QU(10);
-$QU->union(1,2);
-$QU->union(5,2);
+$QU->union(0,4);
+$QU->union(0,8);
+$QU->union(7,3);
+$QU->union(9,1);
+$QU->union(5,6);
+$QU->union(2,1);
 $QU->union(6,2);
-$QU->union(2,3);
-$QU->union(10,6);
-$QU->connected(10,6);
-$QU->connected(10,9);
+$QU->union(4,3);
+$QU->union(4,2);
+
 

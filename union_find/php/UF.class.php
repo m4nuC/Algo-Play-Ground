@@ -11,7 +11,7 @@ class UF {
 	public function __construct( $N )
 	{
 		// We store the Number as Index not as Value so that we can easily access them
-		for ($i = 1; $i <= $N; $i++ )
+		for ($i = 0; $i < $N; $i++ )
 		{
 			$this->groupIds[$i] = $i;
 		}
@@ -27,7 +27,6 @@ class UF {
  */
 	public function union($a, $b) 
 	{
-		$this->dpo();
 
 		// If this groupIds have the same value them they are connected we can return 
 		if ($this->groupIds[$a] == $this->groupIds[$b]) return;
@@ -36,17 +35,25 @@ class UF {
 		$groupId = $this->groupIds[$a];
 
 		// Check if the second object is part of a group	
-		$siblings = $this->siblings($b);
-
-		if ($siblings)
+		
+		for ( $i = 0; $i < count($this->groupIds); $i++ )
 		{
-			foreach ( $siblings as $obj => $value )
+			if ($this->groupIds[$i] == $groupId ) 
 			{
-				$this->groupIds[$value] = $groupId;
+				$this->groupIds[$i] = $this->groupIds[$b];
 			}
 		}
+		// $siblings = $this->siblings($b);
+
+		// if ($siblings)
+		// {
+		// 	foreach ( $siblings as $obj => $value )
+		// 	{
+		// 		$this->groupIds[$a] = $value;
+		// 	}
+		// }
 		
-		$this->dpo();
+		print($this);
 	}
 
 /**
@@ -89,16 +96,21 @@ class UF {
 		var_dump($this->groupIds);
 	}
 
+	public function __toString()
+	{
+		return implode(' ', $this->groupIds) . "\n";
+	}
+
 }
 
 
 $UF = new UF(10);
 $UF->union(1,2);
-$UF->union(5,2);
-$UF->union(6,2);
-$UF->union(2,3);
-$UF->union(10,6);
-$UF->connected(10,6);
-$UF->connected(10,9);
+$UF->union(9,8);
+$UF->union(8,5);
+$UF->union(3,1);
+$UF->union(6,3);
+$UF->union(8,0);
+
 
 
