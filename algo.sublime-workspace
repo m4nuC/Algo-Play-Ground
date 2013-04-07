@@ -1,0 +1,1242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"du",
+				"var_dump"
+			],
+			[
+				"get",
+				"getMessages"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"owner",
+				"ownership"
+			],
+			[
+				"tech",
+				"technician"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"techn",
+				"technicianInputs"
+			],
+			[
+				"del",
+				"delegateEvents(events)	backbone.js"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pe",
+				"pending_users"
+			],
+			[
+				"comany",
+				"Company"
+			],
+			[
+				"sup",
+				"supplierInterface"
+			],
+			[
+				"passw",
+				"password_confirmation"
+			],
+			[
+				"i",
+				"inside	(i)"
+			],
+			[
+				"lis",
+				"list-style-position"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"form",
+				"form-row"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"nth",
+				":nth-child(|)"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margin-botto",
+				"margin-bottom"
+			],
+			[
+				"li",
+				"list-style-position"
+			],
+			[
+				"snippet",
+				"snippet_category"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"post",
+				"post_type"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"las",
+				"last-child"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"tex-",
+				"text-indent"
+			],
+			[
+				"a",
+				"addOne"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"url",
+				"url(image-url.gif)"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ifr",
+				"iframe"
+			],
+			[
+				"document",
+				"contentDocument"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pinr",
+				"print_r"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"set",
+				"set_userdata"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"dom",
+				"domReady"
+			],
+			[
+				"on",
+				"onready"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"current",
+				"current_win_time"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"up",
+				"upc_id"
+			],
+			[
+				"is_i",
+				"is_int"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"col",
+				"Collapse"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"padding-l",
+				"padding-left"
+			],
+			[
+				"small",
+				"smallPrints"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"email",
+				"emailConf"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"errr",
+				"errorClass"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"setti",
+				"settings"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"de",
+				"fadeDelay"
+			],
+			[
+				"line-h",
+				"line-height"
+			],
+			[
+				"ex",
+				"expender"
+			],
+			[
+				"offset",
+				"offsetWidth"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pin",
+				"pin_stauts"
+			],
+			[
+				"skill",
+				"skill_test"
+			],
+			[
+				"data",
+				"dataString"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"b",
+				"border-image"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"text-d",
+				"text-decoration"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"la",
+				"last-child"
+			],
+			[
+				"ar",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"bav",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"bacj",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"th",
+				"thumbBox"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"cir",
+				"circleOfCare"
+			],
+			[
+				"op",
+				"moz-opacity"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"rep",
+				"replied"
+			],
+			[
+				"receiv",
+				"receivedDate"
+			],
+			[
+				"I",
+				"Iowa"
+			],
+			[
+				"ho",
+				"hor-minimalist-a"
+			],
+			[
+				"tx",
+				"txt_file"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"sci",
+				"scripts"
+			],
+			[
+				"content",
+				"content-right"
+			],
+			[
+				"main",
+				"main-nav"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"thum",
+				"tpl-thumbs"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 331.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"liveReLOAD",
+				"LiveReload: Enable/disable plugins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plugins"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plugins"
+			],
+			[
+				"li",
+				"LiveReload: Enable/disable plugins"
+			],
+			[
+				"live ena",
+				"LiveReload: Enable/disable plugins"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"f",
+				"Fetch: File"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch"
+			],
+			[
+				"",
+				"Fetch: Manage remote files"
+			],
+			[
+				"FE",
+				"Fetch"
+			],
+			[
+				"fetch",
+				"Fetch"
+			],
+			[
+				"snippet",
+				"Snippet: jq_getjson"
+			],
+			[
+				"sni",
+				"Snippet: jq_getjson"
+			],
+			[
+				"snippet ",
+				"Snippet: jq_getjson"
+			],
+			[
+				"snippet j",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"FET",
+				"Fetch: Manage remote files"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/manu/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/manu/www/_Sandbox/js_patterns/readme.md",
+		"/Users/manu/www/_Sandbox/js_patterns/.gitignore",
+		"/Users/manu/www/_Sandbox/js_patterns/OOP_prototype/js_inheritance.js",
+		"/Users/manu/www/_Sandbox/js_patterns/OOP_prototype/js_inheritance",
+		"/Users/manu/www/_Sandbox/js_patterns/crockfrod-problems.js",
+		"/Users/manu/www/_Sandbox/js_patterns/pushsub/promise.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/booking-table-head-client.html",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/BookingsController.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/supplier-form-view.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/supplier-form.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/modules/dropMenu.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/master-form-view.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/css/main.css",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/modules/silk_validation.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/modules/contacts-list.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/booking-form.html",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/UsersController.php",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/SuppliersController.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/vendors/jquery.rs.modal.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/quick-save.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/commun.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/vendors/jquery-ui.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/css/jquery-ui.css",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/quick-save.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/mater-form-view.js",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_200000_adds_foreign_key_to_factory_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/FactoriesController.php",
+		"/Users/manu/www/renaud/qcplateform/app/models/Factory.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/models/factory-model.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/collections/factory-rows-collection.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/factory-form.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/factory-table-head.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/factory-table-row.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/factory-form-view.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/table-view.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/router.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/app-view.js",
+		"/Users/manu/www/renaud/qcplateform/app/views/app/master.blade.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/factory-table-row-view.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/pages/main.js",
+		"/Users/manu/www/renaud/qcplateform/app/routes.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_173354_create_bookings_table.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/booking-table-head.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/booking-form-view.js",
+		"/Users/manu/www/renaud/qcplateform/app/views/login/register.blade.php",
+		"/Users/manu/www/renaud/qcplateform/app/views/login/index.blade.php",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/TechnicianController.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/pages/page_tpl.js",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_162019_create_users_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/BaseController.php",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/PendingUsersController.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/user-form.html",
+		"/Users/manu/www/renaud/qcplateform/app/views/app/index.blade.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/company-form.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/invoice-form.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/tool-form.html",
+		"/Users/manu/www/renaud/qcplateform/app/models/User.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/technician-table-head.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/technician-table-row.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/technician-table-row-view.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/user-form-view.js",
+		"/Users/manu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/models/technician-model.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/collections/technician-rows-collection.js",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/ContactsController.php",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/InvoicesController.php",
+		"/Users/manu/www/renaud/qcplateform/.gitignore",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_179900_create_technicians_tools_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_163354_create_technicians_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_193831_adds_foreign_key_to_technicians_table.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/modules/uploader.js",
+		"/Users/manu/www/renaud/qcplateform/app/storage/cache/gfds",
+		"/Users/manu/www/renaud/qcplateform/app/storage/meta/services.json",
+		"/Users/manu/www/renaud/qcplateform/app/storage/logs/log-2013-01-13.txt",
+		"/Users/manu/www/renaud/qcplateform/app/config/app.php",
+		"/Users/manu/www/renaud/qcplateform/app/config/auth.php",
+		"/Users/manu/www/renaud/qcplateform/app/config/database.php",
+		"/Users/manu/www/renaud/qcplateform/app/config/mail.php",
+		"/Users/manu/www/renaud/qcplateform/app/config/queue.php",
+		"/Users/manu/www/renaud/qcplateform/app/start/global.php",
+		"/Users/manu/www/renaud/qcplateform/bootstrap/autoload.php",
+		"/Users/manu/www/renaud/qcplateform/bootstrap/paths.php",
+		"/Users/manu/www/renaud/qcplateform/bootstrap/start.php",
+		"/Users/manu/www/renaud/qcplateform/composer.json",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/TestController.php",
+		"/Users/manu/www/renaud/qcplateform/app/filters.php",
+		"/Users/manu/www/renaud/qcplateform/server.php",
+		"/Users/manu/www/renaud/qcplateform/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php",
+		"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/src/Illuminate/Http/Request.php",
+		"/Users/manu/www/renaud/qcplateform/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/manu/www/renaud/qcplateform/app/storage/logs/test.php",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/CompaniesController.php",
+		"/Users/manu/www/renaud/qcplateform/app/models/Client.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/booking-table-row.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/booking-table-row-view.js",
+		"/Users/manu/www/renaud/qcplateform/app/models/Supplier.php",
+		"/Users/manu/www/renaud/qcplateform/app/config/staging/application.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/collections/supplier-rows-collection.js",
+		"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/vendors/jquery.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/tool-form-view.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/models/tool-model.js",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/ClientsController.php",
+		"/Users/manu/www/renaud/qcplateform/app/controllers/ToolsController.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/seeds/DatabaseSeeder.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/seeds/countries.php",
+		"/Users/manu/www/renaud/qcplateform/app/models/Country.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/tool-table-head.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/tool-table-row.html",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/collections/tool-rows-collection.js",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/tool-table-row-view.js",
+		"/Users/manu/www/renaud/qcplateform/artisan",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_193441_adds_foreign_key_to_users_table.php",
+		"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/src/Illuminate/Database/Schema/Grammars/Grammar.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_178354_create_suppliers_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_163147_create_clients_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_163222_create_admins_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_179354_create_factories_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_179600_create_invoices_table.php",
+		"/Users/manu/www/renaud/qcplateform/app/database/migrations/2012_12_11_179454_create_permissions_table.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views/invoice-form-view.js",
+		"/Users/manu/www/renaud/qcplateform/public/index.php",
+		"/Users/manu/www/renaud/qcplateform/app/storage/views/c23010dbcf03da1e7d433a6f21eb74c8",
+		"/Users/manu/www/renaud/qcplateform/app/config/session.php",
+		"/Users/manu/www/renaud/qcplateform/start.php",
+		"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl/user-table-row.html",
+		"/Users/manu/www/renaud/qcplateform/app/models/Technician.php"
+	],
+	"find":
+	{
+		"height": 249.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/manu/www/renaud/qcplateform/public/resources/js/src",
+			"/Users/manu/www/renaud/qcplateform/public/resources/js/src/tpl",
+			"/Users/manu/www/renaud/qcplateform/vendor",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/src/Illuminate",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/tests/Database",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/src/Illuminate/Database",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/src/Illuminate/Database/Migrations",
+			"/Users/manu/www/renaud/qcplateform/app/config",
+			"/Users/manu/www/renaud/qcplateform/app/database/migrations",
+			"/Users/manu/www/renaud/qcplateform",
+			"/Users/manu/www/renaud/qcplateform/app/controllers",
+			"/Users/manu/www/renaud/qcplateform/public/resources/js/src/views",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/database/src/Illuminate/Database",
+			"/Users/manu/www/renaud/qcplateform/public/resources/js/src",
+			"/Users/manu/www/renaud/qcplateform/vendor",
+			"/Users/manu/www/renaud/qcplateform/vendor/symfony/http-kernel",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/database/src/Illuminate/Database",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/database/src/Illuminate/Database/Eloquent",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/src/Illuminate",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/view/src/Illuminate/View",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/database/src/Illuminate/Database",
+			"/Users/manu/www/renaud/qcplateform/vendor",
+			"/Users/manu/www/renaud/qcplateform/vendor/illuminate/foundation/tests",
+			"/Users/manu/www/renaud/qcplateform/vendor",
+			"/Users/manu/www/renaud/qcplateform/application/libraries/qcplatform",
+			"/Users/manu/www/_Perso/site_review_app",
+			"/Users/manu/www/sv/resources",
+			"/Users/manu/www/sv/application",
+			"/Users/manu/www/sv/application/views",
+			"/Users/manu/www/sv",
+			"/Users/manu/www/sv/application/views",
+			"/Users/manu/www/axon/live/axiss/WEB-INF/views/inbox",
+			"/Users/manu/www/axon/live/axiss",
+			"/Users/manu/www/sv",
+			"/Users/manu/www/axon/live/axiss/resources",
+			"/Users/manu/www/mars_pyp/en/application/views",
+			"/Users/manu/www/mars_pyp/fr/application/views",
+			"/Users/manu/www/mars_pyp/fr/application",
+			"/Users/manu/www/mars_pyp/fr/application/views",
+			"/Users/manu/www/mars_pyp/arenas",
+			"/Users/manu/www/mars_pyp/application/views",
+			"/Users/manu/www/mars_pyp",
+			"/Users/manu/www/axon/live/axiss/WEB-INF",
+			"/Users/manu/www/axon",
+			"/Users/manu/www/MovieTix/final2/movietix",
+			"/Users/manu/www/MovieTix/final2/movietix/common/scripts",
+			"/Users/manu/www/MovieTix/final",
+			"/Users/manu/www/MovieTix/final2/movietix/common",
+			"/Users/manu/www/MovieTix/final/movietix/common",
+			"/Users/manu/www/MovieTix/final/movietix/common/scripts",
+			"/Users/manu/www/MovieTix/final",
+			"/Users/manu/www/lw2012/LU_beta/sites",
+			"/Users/manu/www/MovieTix/fr/movietix/fr",
+			"/Users/manu/www/MovieTix/fr",
+			"/Users/manu/www/MovieTix/fr/movietix/en",
+			"/Users/manu/www/MovieTix/fr/movietix/fr",
+			"/Users/manu/www/MovieTix/fr/fr",
+			"/Users/manu/www/MovieTix/fr/movietix/fr",
+			"/Users/manu/www/MovieTix/fr/movietix",
+			"/Users/manu/www/MovieTix/fr/movietix/fr",
+			"/Users/manu/www/MovieTix/fr",
+			"/Users/manu/www/MovieTix/fr/movietix/fr",
+			"/Users/manu/www/axon",
+			"<open files>",
+			"/index.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"objects",
+			"$objects",
+			"do",
+			"then",
+			"fdoAsyncStuff",
+			"int",
+			"mul",
+			"memory_limit",
+			"post_max_size",
+			"upload",
+			"this.",
+			".[",
+			"supplier",
+			"product_name",
+			"collection",
+			"nth",
+			"->getMessages()",
+			"getSuppliers",
+			"contactsList",
+			"add-contact",
+			"add",
+			"addCon",
+			"currentClient",
+			"{\n",
+			"new",
+			"getSuppliers",
+			"currentClient",
+			"hasModel",
+			"instance",
+			"quick",
+			" {",
+			"hasMo",
+			"getSuppliers",
+			"getClients",
+			"supplier-container",
+			"newSupplier",
+			"booking",
+			"supplierId",
+			"supplierID",
+			"Suppliers",
+			"suppliers",
+			"invoiceId",
+			"FactoryCollection",
+			"tools",
+			"FactoryTableHeadTpl",
+			"Technician",
+			"factorys",
+			"getClients",
+			"supplier",
+			"supplierId",
+			"SupplierModel",
+			"supplierModel",
+			"getSuppliers",
+			">\n",
+			"show",
+			"		.",
+			".main-nav .menu-item",
+			"logo",
+			"orange",
+			"());",
+			"('",
+			"attr(",
+			", 'title'",
+			"title",
+			", 'title'",
+			"title",
+			"}\n",
+			"Platform",
+			"=== \"1\") { %> selected=\"selected\" <% } %>>",
+			" <% if (",
+			" === \"1\") { %> selected=\"selected\" <% } %>>",
+			" if (",
+			"tplData",
+			".technician",
+			"tplData",
+			"social_compliance_audit",
+			"TechnicianCollection",
+			"Invoices",
+			"Tool",
+			"tools",
+			"UserModel",
+			"type=\"checkbox\"",
+			"name=\"",
+			"hr",
+			"l></li>",
+			"<input type=\"checkbox\">",
+			";\n",
+			"user",
+			"technician",
+			"<input type=\"checkbox\">",
+			"techni",
+			"File.",
+			"File",
+			"file",
+			"File",
+			"{\n",
+			"unset",
+			"());\n",
+			"			// $this->beforeFilter(function() {\n			// 	if ( Auth::guest() )\n			// 	{\n			// 		return Redirect::to('login');\n			// 	}\n			// 	else\n			// 	{\n			// 		$userObject = Auth::user();\n			// 		View::share('userObject', $userObject);\n			// 	}\n				\n			// });",
+			"$_POST",
+			"input($k",
+			"input",
+			"postData",
+			"formData",
+			"class=\"optional\"",
+			"currentSupplier",
+			";\n",
+			"');\n",
+			"%>\n",
+			"Hash",
+			"Has",
+			"set",
+			"Mutator",
+			"toSave",
+			"ser-type",
+			"dataString",
+			"form data",
+			"form",
+			"formdata",
+			"FormData",
+			"formData",
+			"pending",
+			"NotFou",
+			"<?",
+			"NotF",
+			"NotFound",
+			"\n",
+			"id"
+		],
+		"highlight": false,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blue",
+			"array(",
+			"company_country",
+			"country",
+			"->messages()->getMessages()",
+			"",
+			"value=\"$1\" <% if (tplData.company_country === \"$1\") { %> selected=\"selected\" <% } %>",
+			"value=\"$1\" <% if (tplData.company_country === $1) { %> selected=\"selected\" <% } %>",
+			"	array (",
+			"\"id\" => \"$1\",",
+			"\"name\" => \"$1\"",
+			"[name] => \"$1\"",
+			"[id] => \"$1\",",
+			"[name] => \"$1\"",
+			"[id] => \"$1\"",
+			"	),",
+			" (",
+			"countries",
+			"optional",
+			"Menu Item<b class=\"caret\"></b>",
+			"Sub menu<b class=\"caret\"></b>",
+			"Sub menu",
+			"<a href=\"#\">Sub menu</a>",
+			"josep",
+			"Qcplatform",
+			"images",
+			"<sup>&#174;</sup>",
+			"&amp;",
+			"#comment-space",
+			"'",
+			"\"",
+			"../img/jquery-ui",
+			"$highlighter",
+			"<sup>&#174;</sup>",
+			"<dt class=\"cufons\"><a href=\"#\">$1</a></dt>",
+			"<dt class=\"cufons\"><a href=\"#\">$1</a>(</dt>)$",
+			"",
+			"<sup>&#174;</sup>",
+			"<a href=\"<?=$this->config->item('base_url')?>index.php?/en/rules\">Official Rules</a>",
+			"=> 18,",
+			"",
+			"\"$1\" => 18,",
+			"\"$1\",",
+			"\"$1\"",
+			"",
+			"<?=$this->config->item('base_url')?>resources",
+			"$",
+			"<?=$this->config->item('base_url')?>resources/img",
+			"user",
+			"field",
+			"MARS<sup>&#174;</sup>",
+			"<sup>&#174;</sup>",
+			"rightCol",
+			"leftCol",
+			"el",
+			"MARS<sup>MD</sup>",
+			"MARS<sup>&#174;</sup>",
+			"*See <a ",
+			"<p class=\"rules bottomRight\">*Consultez le <a ",
+			"<p class=\"rules bottomRight\">*Consultez le <a target=\"_blank\" href=\"<?=$this->config->item('base_url')?>index.php?/<?=$this->session->userdata('language')?>/rules\">r&#232;glement officiel</a> pour tous les d&#233;tails.</p>",
+			"Play Your Part<sup>TM</sup>",
+			"('user_id');",
+			"Where is the PIN code located?",
+			"../img/",
+			"service",
+			"Official Rules</a> for full",
+			"<?=$this->config->item('base_url')?>index.php?/<?=$this->session->userdata('language')?>/rules",
+			"<p class=\"rules bottomRight\">*See <a href=\"ajax_rules.html\">official rules</a> for details. </p>",
+			"MARS<sup>&reg;</sup>",
+			"",
+			"height: \"530px\",",
+			"<dt class=\"cufons\">",
+			"img/commun/",
+			"img/commun",
+			"<li><a href=\"#\">$1</a></li>",
+			"../img",
+			"<?php print $base_path . path_to_theme();?>",
+			"path_to_theme()",
+			"'",
+			"$_POST",
+			"$_GET",
+			"scripts/",
+			"path=/",
+			"    ",
+			",\n\"",
+			"",
+			"subject",
+			"",
+			"onComplete",
+			"Liberty Utilities",
+			"005da3",
+			"<title>Jeu avec prix instantanés M&amp;M’S MD et MALTESERS MD</title>",
+			"$_GET",
+			"href=\"#\" >",
+			"onclick=\"target='_blank';\"",
+			"<br/>",
+			"&amp;creative",
+			"&amp;camp",
+			"&amp;link",
+			"&amp;tag",
+			"</span>\n            <h3>",
+			"<span class=\"imgWarp\">",
+			"<a href=\"#\">",
+			"</a></li>",
+			"<li><a>",
+			"",
+			"eaeae4",
+			"f7f7ed",
+			"f3f3f3",
+			"\"resources/",
+			"<a href=\"#\"><img src=\"img/thumb2.jpg\" alt=\"\"></a>",
+			"<a href=\"#\"><img src=\"img/thumb1.jpg\" alt=\"\"></a>",
+			"echo $basePath;",
+			"<?php echo ",
+			"<?php echo",
+			"<?=",
+			"id=",
+			"block",
+			"../img/",
+			"initiateAllScrolls",
+			"initiateLeftScroll",
+			"initiateScrollLeft",
+			"initiateScrollLeft\n",
+			"href=\"msg-body.json\" class=\"expender msg-expender\">",
+			"<div class=\"message\">\n				<a href=\"msg-body.json\" class=\"expender\">",
+			"<div class=\"message\">\n				<a href=\"msg-body.json\" class=\"expender\">\n						\n						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries\n					</p>",
+			"					<p class=\"msg-body\">dsadasdasdasd\n						\n						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries\n					</p>"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.sftp":
+	{
+		"height": 233.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 170.0
+	},
+	"replace":
+	{
+		"height": 254.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"wp-content/themes/m4nu/single-projects.php"
+			],
+			[
+				"main",
+				"sv/resources/js/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/manu/www/renaud/qcplateform/new_qcplateform.sublime-project"
+			],
+			[
+				"re",
+				"/Users/manu/www/_Perso/site_review_app/review_app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 469.0,
+	"status_bar_visible": true
+}
