@@ -5,11 +5,14 @@ class QU {
 
 	private $groupsId = array();
 
+	private $treeDepth = array();
+
 	public function __construct($N)
 	{
 		// We store the Number as Index not as Value so that we can easily access them
 		for ($i = 1; $i <= $N; $i++ )
 		{
+			$this->treeDepth[$obj] = 1;
 			$this->groupIds[$i] = $i;
 		}	
 	}
@@ -27,6 +30,7 @@ class QU {
 
 		while ( $this->groupIds[$obj] != $obj )
 		{
+			$this->treeDepth[$obj]++; 
 			$obj = $this->groupIds[$obj];
 		}
 
@@ -41,9 +45,21 @@ class QU {
  */
 	public function union($a, $b)
 	{
-		$i = $this->root($this->groupIds[$a]);
-		$j = $this->root($this->groupIds[$b]);
-		$this->groupIds[$i] = $j;	
+		$rA = $this->root($this->groupIds[$a]);
+		$rB = $this->root($this->groupIds[$b]);
+
+		if ( $this->treeDepth[$a] > $this->treeDepth[$b] )
+		{
+			$this->groupIds[$rB] = $rA;
+			$this->treeDepth[$b] +=  $this->treeDepth[$a];
+		}
+
+		else
+		{
+			$this->groupIds[$rA] = $rB;
+			$this->treeDepth[$a] +=  $this->treeDepth[$b];
+		}
+			
 		$this->dpo();
 	}
 
