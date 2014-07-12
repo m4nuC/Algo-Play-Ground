@@ -12,6 +12,9 @@ function solution( a, X ) {
             A[ X[i]-1 ] += 1;
             max = Math.max( max, A[ X[i]-1 ] );
         } else {
+            // Need to find a way to initialize an array of a given length
+            // with a default value without having to iterate through
+            // This would lower complexity to O(n)
             A = Array.apply(null, new Array(a)).map(Number.prototype.valueOf,max);
         }
     };
